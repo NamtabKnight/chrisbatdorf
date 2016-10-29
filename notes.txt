@@ -4,7 +4,3 @@ highlight orange ED5523
 
 base template
 https://startbootstrap.com/template-overviews/freelancer/
-
-website hosting
-username: namtab1
-password: Js6MdxxK@borL$
