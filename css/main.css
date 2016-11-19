@@ -25,3 +25,12 @@ and open the template in the editor.
 #howlong {
     background: #ED5523;
 }
+h1, h2 {
+    font-size:1em !important;
+}
+.success h2 {
+    font-size:3em !important;
+}
+#contact h2 {
+    font-size:3em !important;
+}
